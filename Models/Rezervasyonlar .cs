@@ -8,14 +8,14 @@ namespace OtelSitesi.Models
     public class Rezervasyonlar
     {
 
-        [Key] // Birincil anahtar
+        [Key] 
         public int Id { get; set; }
 
-        [Required] // Zorunlu alan
+        [Required]
         public string AdSoyad { get; set; } = string.Empty;
 
         [Required]
-        [EmailAddress] // E-posta formatı doğrulaması
+        [EmailAddress] 
         public string Eposta { get; set; } = string.Empty;
 
         [Required]

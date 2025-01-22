@@ -74,7 +74,7 @@
         background-color: #855633;
     }
 
-/* Responsive Tasarım */
+
 @media (max-width: 768px) {
     .reservation-container {
         padding: 15px;

@@ -24,7 +24,7 @@ namespace OtelSitesi.Controllers
         [HttpPost]
         public IActionResult Reserve(string name, DateTime date)
         {
-            // Rezervasyonu iþleyin (veritabanýna kaydedin)
+            
             return RedirectToAction("Index");
         }
 

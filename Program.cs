@@ -4,9 +4,9 @@ using OtelSitesi.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Logging.ClearProviders();
-builder.Logging.AddConsole(); // Konsol loglama ekler
+builder.Logging.AddConsole(); 
 
-// Add services to the container.
+
 builder.Services.AddDbContext<HotelContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
@@ -14,7 +14,7 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-app.Logger.LogInformation("Uygulama baþlatýldý."); // Loglama eklenir
+app.Logger.LogInformation("Uygulama baþlatýldý."); 
 
 if (!app.Environment.IsDevelopment())
 {

@@ -5,10 +5,10 @@ namespace OtelSitesi.Models
 {
     public class Mesajlar
     {
-        [Key] // Birincil anahtar
+        [Key] 
         public int Id { get; set; }
 
-        [Required] // Zorunlu alan
+        [Required] 
         public string AdSoyad { get; set; } = string.Empty;
 
         [Required]

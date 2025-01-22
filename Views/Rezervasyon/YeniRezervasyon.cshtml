@@ -1,0 +1,46 @@
+﻿@model OtelSitesi.Models.Rezervasyonlar
+
+@{
+    ViewData["Title"] = "Yeni Rezervasyon";
+}
+
+<div class="reservation-container">
+    <h1>Yeni Rezervasyon</h1>
+    <p>Lütfen aşağıdaki formu doldurarak rezervasyonunuzu tamamlayın.</p>
+
+    <form asp-action="YeniRezervasyon" method="post" class="reservation-form">
+        <div class="form-group">
+            <label for="AdSoyad">Ad Soyad</label>
+            <input type="text" id="AdSoyad" name="AdSoyad" placeholder="Adınızı ve soyadınızı girin" required />
+        </div>
+        <div class="form-group">
+            <label for="Eposta">E-posta</label>
+            <input type="email" id="Eposta" name="Eposta" placeholder="E-posta adresinizi girin" required />
+        </div>
+        <div class="form-group">
+            <label for="Telefon">Telefon</label>
+            <input type="text" id="Telefon" name="Telefon" placeholder="Telefon numaranızı girin" required />
+        </div>
+        <div class="form-group">
+            <label for="OdaTuru">Oda Türü</label>
+            <select id="OdaTuru" name="OdaTuru" required>
+                <option value="" disabled selected>Oda türü seçin</option>
+                <option value="Tek Kişilik Oda">Tek Kişilik Oda</option>
+                <option value="Çift Kişilik Oda">Çift Kişilik Oda</option>
+                <option value="Aile Odası">Aile Odası</option>
+                <option value="Suit Oda">Suit Oda</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="GirisTarihi">Giriş Tarihi</label>
+            <input type="date" id="GirisTarihi" name="GirisTarihi" required />
+        </div>
+        <div class="form-group">
+            <label for="CikisTarihi">Çıkış Tarihi</label>
+            <input type="date" id="CikisTarihi" name="CikisTarihi" required />
+        </div>
+        <button type="submit" class="btn-submit">Rezervasyon Yap</button>
+    </form>
+</div>
+
+<link rel="stylesheet" href="/css/YeniRezervasyon.css" />

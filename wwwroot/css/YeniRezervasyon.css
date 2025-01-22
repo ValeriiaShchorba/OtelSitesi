@@ -1,0 +1,86 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.reservation-container {
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+    .reservation-container h1 {
+        text-align: center;
+        color: #632801;
+        margin-bottom: 10px;
+    }
+
+    .reservation-container p {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 14px;
+        color: #555;
+    }
+
+.reservation-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+    .form-group label {
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: #444;
+    }
+
+    .form-group input,
+    .form-group select {
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            border-color: #632801;
+            outline: none;
+        }
+
+.btn-submit {
+    padding: 10px 20px;
+    background-color: #632801;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-submit:hover {
+        background-color: #855633;
+    }
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+    .reservation-container {
+        padding: 15px;
+    }
+
+    .btn-submit {
+        font-size: 14px;
+    }
+}

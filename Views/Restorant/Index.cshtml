@@ -1,0 +1,30 @@
+﻿<div class="about-header">
+    <div class="overlay">
+        <h1>Restorant</h1>
+    </div>
+</div>
+<div class="restorant-content">
+    <!-- Sol Taraf: Bilgi ve Menü Linki -->
+    <div class="restorant-info">
+        <h2>Restorant Hakkında</h2>
+        <p>
+            Doğanın içinde, eşsiz bir manzara eşliğinde leziz yemekler sunuyoruz.
+            Taze ve organik malzemelerle hazırlanmış menülerimiz, size unutulmaz bir yemek deneyimi sunacak.
+        </p>
+        <a href="/menu" class="btn-menu">Menüyü İncele ></a>
+    </div>
+
+    <!-- Sağ Taraf: Slider -->
+    <div class="restorant-slider">
+        <button class="slider-btn prev" onclick="changeSlide(0, -1)">&#8592;</button>
+        <div class="slider-images" data-index="0">
+            <img src="/images/restoran1.jpg" alt="Restorant Fotoğraf 1" class="active">
+            <img src="/images/restoran2.jpg" alt="Restorant Fotoğraf 2">
+            <img src="/images/restoran3.jpg" alt="Restorant Fotoğraf 3">
+        </div>
+        <button class="slider-btn next" onclick="changeSlide(0, 1)">&#8594;</button>
+    </div>
+</div>
+<link rel="stylesheet" href="/css/Restorant.css" />
+<script src="/js/site.js"></script>
+

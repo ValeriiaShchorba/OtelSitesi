@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Uludağ Bungalov</title>
+    <link rel="stylesheet" href="~/css/layout.css" asp-append-version="true">
+</head>
+<body>
+    <!-- Üst Menü -->
+    <header class="navbar">
+        <div class="container">
+            <div class="logo">
+                <img src="/images/logo.png" alt="Uludağ Bungalov">
+                <span>Uludağ Bungalov</span>
+            </div>
+            <nav class="menu">
+                <ul>
+                    <li><a href="/">Ana Sayfa</a></li>
+                    <li><a href="/Hakkimizda">Hakkımızda</a></li>
+                    <li><a href="/Konaklama">Konaklama</a></li>
+                    <li><a href="/Restorant">Restorant</a></li>
+                    <li><a href="/Galeri">Galeri</a></li>
+                    <li><a href="/Iletisim">İletişim</a></li>
+                </ul>
+            </nav>
+            <div class="reservation">
+                <a href="/Rezervasyon/YeniRezervasyon" class="btn-reserve">Rezervasyon Yap</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Ana İçerik -->
+    <main class="container">
+        @RenderBody()
+    </main>
+
+    <!-- Alt Bilgi -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; @DateTime.Now.Year Uludağ Bungalov. Tüm hakları saklıdır.</p>
+        </div>
+    </footer>
+</body>
+</html>

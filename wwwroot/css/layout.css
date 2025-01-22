@@ -1,4 +1,4 @@
-﻿/* Genel Ayarlar */
+﻿
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -7,7 +7,7 @@ body {
     background-color: #f4f4f9;
 }
 
-/* Navbar */
+
 .navbar {
     background-color: #004d40;
     color: white;
@@ -75,14 +75,14 @@ body {
             background-color: #664733;
         }
 
-/* Ana İçerik */
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
 }
 
-/* Footer */
+
 .footer {
     background-color: #004d40;
     color: white;
@@ -95,7 +95,7 @@ body {
         margin: 0;
     }
 
-/* Responsive Tasarım */
+
 @media (max-width: 768px) {
     .navbar .container {
         flex-direction: column;

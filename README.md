@@ -137,7 +137,7 @@ Rezervasyon sayfası, kullanıcıların otel odaları için hızlı ve kolay bir
 
 ## Sayfa Görünümü
 
-![Rezervasyon Sayfası](./screenshots/Rezervasyon.png)
+![Rezervasyon Sayfası](./screenshouts/Rezervasyon.png)
 
 ### Sayfa Özellikleri:
 - **Rezervasyon Formu:** Kullanıcılar, ad soyad, e-posta, telefon, oda türü, giriş ve çıkış tarihlerini girerek rezervasyon işlemini tamamlayabilir.

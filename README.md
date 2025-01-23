@@ -175,8 +175,11 @@ Eğer bu proje hakkında daha fazla bilgi edinmek istiyorsanız, aşağıdaki ba
 - **E-posta:**: adilbaha54@gmail.com
 - **Tel No**: +90 551 174 8211
 
-- **YouTube Proje Videosu:** [Proje Videosunu İzle](https://www.youtube.com/watch?v=example)
+## 🎥 YouTube Proje Videosu
 
+Projemizin detaylarını öğrenmek ve özelliklerini incelemek için YouTube videosunu izleyebilirsiniz:
+
+- **YouTube Proje Videosu:** [Proje Videosunu İzle](https://www.youtube.com/watch?v=example)
 ---
 
 Bu README dosyası, projenin tüm detaylarını açıklayan kapsamlı bir dökümandır. Herhangi bir sorunuz olursa, lütfen bizimle iletişime geçmekten çekinmeyin!

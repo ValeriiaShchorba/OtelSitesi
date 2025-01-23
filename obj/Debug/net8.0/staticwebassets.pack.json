@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\OtelSitesi.csc7ewtpaj.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Ayarlar.css",
+      "PackagePath": "staticwebassets\\css\\Ayarlar.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Dashboard.css",
+      "PackagePath": "staticwebassets\\css\\Dashboard.css"
+    },
+    {
       "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Galeri.css",
       "PackagePath": "staticwebassets\\css\\Galeri.css"
     },
@@ -19,6 +27,22 @@
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Konaklama.css",
       "PackagePath": "staticwebassets\\css\\Konaklama.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Messages.css",
+      "PackagePath": "staticwebassets\\css\\Messages.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Reservations.css",
+      "PackagePath": "staticwebassets\\css\\Reservations.css"
     },
     {
       "Id": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Restorant.css",

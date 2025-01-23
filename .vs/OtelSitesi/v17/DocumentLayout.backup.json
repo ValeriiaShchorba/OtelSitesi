@@ -3,24 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\rezervasyon\\yenirezervasyon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\rezervasyon\\yenirezervasyon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\controllers\\rezervasyoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:controllers\\rezervasyoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\yenirezervasyon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\yenirezervasyon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\reservations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\reservations.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\rezervasyon\\basarilirezervasyon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\rezervasyon\\basarilirezervasyon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\ayarlar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\ayarlar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\iletisim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\iletisim.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\admin\\ayarlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\admin\\ayarlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\rezervasyon\\rezervasyonlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\rezervasyon\\rezervasyonlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\messages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\messages.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\iletisim\\mesajlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\iletisim\\mesajlar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\konaklama.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\konaklama.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:data\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|c:\\users\\dell\\onedrive\\masa\u00FCst\u00FC\\otelsitesi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA7C31C-0734-4DED-8C7B-C3D5D7E55A13}|OtelSitesi.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +90,266 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "YeniRezervasyon.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\YeniRezervasyon.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\YeniRezervasyon.css",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\YeniRezervasyon.css",
-              "RelativeToolTip": "wwwroot\\css\\YeniRezervasyon.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Title": "Ayarlar.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Ayarlar.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Ayarlar.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Ayarlar.css",
+              "RelativeToolTip": "wwwroot\\css\\Ayarlar.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwEYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-21T17:40:47.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RezervasyonController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\RezervasyonController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RezervasyonController.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\RezervasyonController.cs",
-              "RelativeToolTip": "Controllers\\RezervasyonController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:18:52.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "YeniRezervasyon.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Rezervasyon\\YeniRezervasyon.cshtml",
-              "RelativeDocumentMoniker": "Views\\Rezervasyon\\YeniRezervasyon.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Rezervasyon\\YeniRezervasyon.cshtml",
-              "RelativeToolTip": "Views\\Rezervasyon\\YeniRezervasyon.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAgwB4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T17:18:14.35Z",
+              "WhenOpened": "2025-01-23T17:45:47.491Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BasariliRezervasyon.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Rezervasyon\\BasariliRezervasyon.cshtml",
-              "RelativeDocumentMoniker": "Views\\Rezervasyon\\BasariliRezervasyon.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Rezervasyon\\BasariliRezervasyon.cshtml",
-              "RelativeToolTip": "Views\\Rezervasyon\\BasariliRezervasyon.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Dashboard.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Dashboard.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Dashboard.css",
+              "RelativeToolTip": "wwwroot\\css\\Dashboard.css",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T09:21:14.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservations.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Reservations.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Reservations.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Reservations.css",
+              "RelativeToolTip": "wwwroot\\css\\Reservations.css",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T17:43:57.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RezervasyonController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\RezervasyonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RezervasyonController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\RezervasyonController.cs",
+              "RelativeToolTip": "Controllers\\RezervasyonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:07:03.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T17:18:06.785Z"
+              "WhenOpened": "2025-01-23T09:27:19.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Iletisim.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Iletisim.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Iletisim.css",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Iletisim.css",
-              "RelativeToolTip": "wwwroot\\css\\Iletisim.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Title": "Ayarlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Admin\\Ayarlar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Ayarlar.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Admin\\Ayarlar.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Ayarlar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:13:11.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rezervasyonlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Rezervasyon\\Rezervasyonlar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rezervasyon\\Rezervasyonlar.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Rezervasyon\\Rezervasyonlar.cshtml",
+              "RelativeToolTip": "Views\\Rezervasyon\\Rezervasyonlar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:07:31.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Register.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Register.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Register.css",
+              "RelativeToolTip": "wwwroot\\css\\Register.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAcwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-20T17:37:32.77Z"
+              "WhenOpened": "2025-01-23T17:31:23.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Messages.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Messages.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Messages.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Messages.css",
+              "RelativeToolTip": "wwwroot\\css\\Messages.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T17:40:09.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:05:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mesajlar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Iletisim\\Mesajlar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Iletisim\\Mesajlar.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Iletisim\\Mesajlar.cshtml",
+              "RelativeToolTip": "Views\\Iletisim\\Mesajlar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:01:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Konaklama.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Konaklama.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Konaklama.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Konaklama.css",
+              "RelativeToolTip": "wwwroot\\css\\Konaklama.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T17:36:50.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "wwwroot\\css\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-23T17:25:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Register.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:07:21.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IletisimController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\IletisimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IletisimController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\IletisimController.cs",
+              "RelativeToolTip": "Controllers\\IletisimController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:03:44.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:04:59.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:21:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Data\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Data\\HotelContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Data\\HotelContext.cs",
+              "RelativeToolTip": "Data\\HotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:08:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:07:58.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Masa\u00FCst\u00FC\\OtelSitesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T09:04:03.14Z"
             }
           ]
         }

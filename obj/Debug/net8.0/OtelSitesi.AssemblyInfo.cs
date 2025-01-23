@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtelSitesi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016c723e3f63cec158fe6b61baf0f69b573501aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b87c0176e3acc7a0e39ef24a6511d095dc46dfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtelSitesi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtelSitesi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

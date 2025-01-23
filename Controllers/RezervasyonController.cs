@@ -13,6 +13,14 @@ namespace OtelSitesi.Controllers
             _context = context;
         }
 
+        // Rezervasyonları listeleme
+        [HttpGet]
+        public IActionResult Rezervasyonlar()
+        {
+            var rezervasyonlar = _context.Rezervasyonlar.ToList(); // Veri tabanından rezervasyonları çek
+            return View(rezervasyonlar); // Görünümü rezervasyonlarla birlikte döndür
+        }
+
         [HttpGet]
         public IActionResult YeniRezervasyon()
         {

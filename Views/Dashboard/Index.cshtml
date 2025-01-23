@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="dashboard-container">
+    <h1 class="dashboard-title">Hoş Geldiniz!</h1>
+    <p class="dashboard-subtitle">Kontrol panelinden otelinizi yönetebilirsiniz.</p>
+
+    <div class="dashboard-grid">
+        <!-- Mesajlar -->
+        <div class="dashboard-card">
+            <h2>Mesajlar</h2>
+            <p>Son gelen mesajları görüntüleyin ve yanıtlayın.</p>
+            <a href="/Iletisim/Mesajlar" class="btn-action">Mesajları Görüntüle</a>
+        </div>
+
+        <!-- Rezervasyonlar -->
+        <div class="dashboard-card">
+            <h2>Rezervasyonlar</h2>
+            <p>Gelen rezervasyonları yönetin ve onaylayın.</p>
+            <a href="/Rezervasyon/Rezervasyonlar" class="btn-action">Rezervasyonları Yönet</a>
+        </div>
+
+        <!-- Admin Ayarları -->
+        <div class="dashboard-card">
+            <h2>Admin Ayarları</h2>
+            <p>Hesap bilgilerinizi yönetin ve şifrenizi değiştirin.</p>
+            <a href="/Admin/Ayarlar" class="btn-action">Ayarları Yönet</a>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" href="/css/Dashboard.css" />

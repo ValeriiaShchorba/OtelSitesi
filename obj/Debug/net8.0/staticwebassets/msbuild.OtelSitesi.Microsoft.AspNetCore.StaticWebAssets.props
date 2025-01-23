@@ -1,5 +1,41 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Ayarlar.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OtelSitesi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OtelSitesi</BasePath>
+      <RelativePath>css/Ayarlar.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x7lpf0uwsz</Fingerprint>
+      <Integrity>rYY27CC1knVhv791V7GMDGcVJYL+sR0Y/jNpJFL6htc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Ayarlar.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Dashboard.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OtelSitesi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OtelSitesi</BasePath>
+      <RelativePath>css/Dashboard.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vm77r6mkrg</Fingerprint>
+      <Integrity>Z1WMmZhfdnQ+MURxqc+aE7J3MRtO63neT7Mz4N6v2+c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Dashboard.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Galeri.css'))">
       <SourceType>Package</SourceType>
       <SourceId>OtelSitesi</SourceId>
@@ -30,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b7sl1p811x</Fingerprint>
-      <Integrity>+RjxbU7bpK2etyvpPCC1emFZxT0POrM0o3wG36IkqpE=</Integrity>
+      <Fingerprint>0eghvm9qzi</Fingerprint>
+      <Integrity>yOt5CFV91hGUOEnw84N1ZQIAuO8wbQ+Z0OYbTGpLfn0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Hakkimizda.css'))</OriginalItemSpec>
@@ -48,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7uvjfftfl1</Fingerprint>
-      <Integrity>ET3ejbKiR7KnfqPCejK1baA9FmokYGUu76pUbvMjvqM=</Integrity>
+      <Fingerprint>tx3zuek9hs</Fingerprint>
+      <Integrity>T6syQyyFkliOLSd5iAVQF/Q76gIzSy3YSE9xcVHSArs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Iletisim.css'))</OriginalItemSpec>
@@ -66,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>q6a8yhx6yr</Fingerprint>
-      <Integrity>bkTZ3H0ugnGSuz4iYvjm4eBdFNBfAoXHjOHPfcSeVqU=</Integrity>
+      <Fingerprint>jtj2pmizqf</Fingerprint>
+      <Integrity>KX4bk3m6/QeFIj842UFXX5IO4eDy+YFDtY0wf2FDeUM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Konaklama.css'))</OriginalItemSpec>
@@ -84,11 +120,83 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xgk3vs268c</Fingerprint>
-      <Integrity>n2atF5hltOmEKisiK4vlgP6fMAHOwzO1izpfiwm6ysc=</Integrity>
+      <Fingerprint>0aqfx92vyc</Fingerprint>
+      <Integrity>yJdSxfRtu+dv3SVTjrKw7DOz47RKxYQrNjsnmVo1KLg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\layout.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OtelSitesi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OtelSitesi</BasePath>
+      <RelativePath>css/Login.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xe67x5lyak</Fingerprint>
+      <Integrity>OeHy3rV+s9Nd5LNYRAwJZT2o5dJyWsdI+oljIZwIhHU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Messages.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OtelSitesi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OtelSitesi</BasePath>
+      <RelativePath>css/Messages.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1gtwkcao7n</Fingerprint>
+      <Integrity>774IYd7WrOulOleSVImteML8qwdbFXi1rxg7YJfhjnE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Messages.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Register.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OtelSitesi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OtelSitesi</BasePath>
+      <RelativePath>css/Register.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>iraswgcyop</Fingerprint>
+      <Integrity>gjrYjrhznf7a+uTgCvbQXEWrErHXiJkUYsWsqRO1ODw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Register.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Reservations.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OtelSitesi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OtelSitesi</BasePath>
+      <RelativePath>css/Reservations.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1myh4cnwso</Fingerprint>
+      <Integrity>eW3RmeGOHcJShFACKbFZhzq6lWyoCt6bI/2vtrw7YAI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Reservations.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Restorant.css'))">
       <SourceType>Package</SourceType>
@@ -102,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mb7n0kjmjj</Fingerprint>
-      <Integrity>LvtjVu5lqZ7TfbAJKnZbJ+hB4BfS8hnK+aVbcQNx7AI=</Integrity>
+      <Fingerprint>tvmjijp9yj</Fingerprint>
+      <Integrity>mUj8JFTywyklnl+RDFM5uy18Zg9fCnJi4c5X/yJusWs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Restorant.css'))</OriginalItemSpec>
@@ -138,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oeimghfpq1</Fingerprint>
-      <Integrity>UNU84xSPJVvbjH6RPSleLhzVSXByDkmL5BqO5pfzju4=</Integrity>
+      <Fingerprint>dj8phvr0m7</Fingerprint>
+      <Integrity>eTQIKbGTbl4x05UPwYH960SYxlCoDx2aJIWizbZ0RY0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\YeniRezervasyon.css'))</OriginalItemSpec>
@@ -480,8 +588,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wq5ca49te8</Fingerprint>
-      <Integrity>GFIGw/6otCVDKi/jt2GVoM5lI5//LhEKoX6HlQ3SqVA=</Integrity>
+      <Fingerprint>0p3mzfqb6f</Fingerprint>
+      <Integrity>zEQ5pdSD3fb+DT3w2YLMhGmyDPoNLxXcDaI8m/NMrIs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\carousel.js'))</OriginalItemSpec>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fT7JFRpLz4dUhzqU9FWDI/bcthSkxMW6bYAeliWVgbQ=",
+  "Hash": "/uGdD6n7F3Y9ahghB7k0Ezz2u/m8RckTzAIzQIrvWPk=",
   "Source": "OtelSitesi",
   "BasePath": "_content/OtelSitesi",
   "Mode": "Default",
@@ -59,6 +59,48 @@
       "OriginalItemSpec": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OtelSitesi.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Ayarlar.css",
+      "SourceId": "OtelSitesi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\",
+      "BasePath": "_content/OtelSitesi",
+      "RelativePath": "css/Ayarlar#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x7lpf0uwsz",
+      "Integrity": "rYY27CC1knVhv791V7GMDGcVJYL+sR0Y/jNpJFL6htc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Ayarlar.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Dashboard.css",
+      "SourceId": "OtelSitesi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\",
+      "BasePath": "_content/OtelSitesi",
+      "RelativePath": "css/Dashboard#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vm77r6mkrg",
+      "Integrity": "Z1WMmZhfdnQ+MURxqc+aE7J3MRtO63neT7Mz4N6v2+c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Dashboard.css"
+    },
+    {
       "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Galeri.css",
       "SourceId": "OtelSitesi",
       "SourceType": "Discovered",
@@ -94,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b7sl1p811x",
-      "Integrity": "+RjxbU7bpK2etyvpPCC1emFZxT0POrM0o3wG36IkqpE=",
+      "Fingerprint": "0eghvm9qzi",
+      "Integrity": "yOt5CFV91hGUOEnw84N1ZQIAuO8wbQ+Z0OYbTGpLfn0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Hakkimizda.css"
@@ -115,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7uvjfftfl1",
-      "Integrity": "ET3ejbKiR7KnfqPCejK1baA9FmokYGUu76pUbvMjvqM=",
+      "Fingerprint": "tx3zuek9hs",
+      "Integrity": "T6syQyyFkliOLSd5iAVQF/Q76gIzSy3YSE9xcVHSArs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Iletisim.css"
@@ -136,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "q6a8yhx6yr",
-      "Integrity": "bkTZ3H0ugnGSuz4iYvjm4eBdFNBfAoXHjOHPfcSeVqU=",
+      "Fingerprint": "jtj2pmizqf",
+      "Integrity": "KX4bk3m6/QeFIj842UFXX5IO4eDy+YFDtY0wf2FDeUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Konaklama.css"
@@ -157,11 +199,95 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xgk3vs268c",
-      "Integrity": "n2atF5hltOmEKisiK4vlgP6fMAHOwzO1izpfiwm6ysc=",
+      "Fingerprint": "0aqfx92vyc",
+      "Integrity": "yJdSxfRtu+dv3SVTjrKw7DOz47RKxYQrNjsnmVo1KLg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\layout.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Login.css",
+      "SourceId": "OtelSitesi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\",
+      "BasePath": "_content/OtelSitesi",
+      "RelativePath": "css/Login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xe67x5lyak",
+      "Integrity": "OeHy3rV+s9Nd5LNYRAwJZT2o5dJyWsdI+oljIZwIhHU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Messages.css",
+      "SourceId": "OtelSitesi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\",
+      "BasePath": "_content/OtelSitesi",
+      "RelativePath": "css/Messages#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gtwkcao7n",
+      "Integrity": "774IYd7WrOulOleSVImteML8qwdbFXi1rxg7YJfhjnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Messages.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Register.css",
+      "SourceId": "OtelSitesi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\",
+      "BasePath": "_content/OtelSitesi",
+      "RelativePath": "css/Register#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iraswgcyop",
+      "Integrity": "gjrYjrhznf7a+uTgCvbQXEWrErHXiJkUYsWsqRO1ODw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Register.css"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Reservations.css",
+      "SourceId": "OtelSitesi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\",
+      "BasePath": "_content/OtelSitesi",
+      "RelativePath": "css/Reservations#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1myh4cnwso",
+      "Integrity": "eW3RmeGOHcJShFACKbFZhzq6lWyoCt6bI/2vtrw7YAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Reservations.css"
     },
     {
       "Identity": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Restorant.css",
@@ -178,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mb7n0kjmjj",
-      "Integrity": "LvtjVu5lqZ7TfbAJKnZbJ+hB4BfS8hnK+aVbcQNx7AI=",
+      "Fingerprint": "tvmjijp9yj",
+      "Integrity": "mUj8JFTywyklnl+RDFM5uy18Zg9fCnJi4c5X/yJusWs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Restorant.css"
@@ -220,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oeimghfpq1",
-      "Integrity": "UNU84xSPJVvbjH6RPSleLhzVSXByDkmL5BqO5pfzju4=",
+      "Fingerprint": "dj8phvr0m7",
+      "Integrity": "eTQIKbGTbl4x05UPwYH960SYxlCoDx2aJIWizbZ0RY0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\YeniRezervasyon.css"
@@ -619,8 +745,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wq5ca49te8",
-      "Integrity": "GFIGw/6otCVDKi/jt2GVoM5lI5//LhEKoX6HlQ3SqVA=",
+      "Fingerprint": "0p3mzfqb6f",
+      "Integrity": "zEQ5pdSD3fb+DT3w2YLMhGmyDPoNLxXcDaI8m/NMrIs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\carousel.js"
@@ -1846,6 +1972,170 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/Ayarlar.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Ayarlar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rYY27CC1knVhv791V7GMDGcVJYL+sR0Y/jNpJFL6htc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rYY27CC1knVhv791V7GMDGcVJYL+sR0Y/jNpJFL6htc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Ayarlar.x7lpf0uwsz.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Ayarlar.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rYY27CC1knVhv791V7GMDGcVJYL+sR0Y/jNpJFL6htc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7lpf0uwsz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Ayarlar.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rYY27CC1knVhv791V7GMDGcVJYL+sR0Y/jNpJFL6htc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1WMmZhfdnQ+MURxqc+aE7J3MRtO63neT7Mz4N6v2+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1WMmZhfdnQ+MURxqc+aE7J3MRtO63neT7Mz4N6v2+c="
+        }
+      ]
+    },
+    {
+      "Route": "css/Dashboard.vm77r6mkrg.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z1WMmZhfdnQ+MURxqc+aE7J3MRtO63neT7Mz4N6v2+c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:37:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vm77r6mkrg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z1WMmZhfdnQ+MURxqc+aE7J3MRtO63neT7Mz4N6v2+c="
+        }
+      ]
+    },
+    {
       "Route": "css/Galeri.5hf8qknh7c.css",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Galeri.css",
       "Selectors": [],
@@ -1928,7 +2218,7 @@
       ]
     },
     {
-      "Route": "css/Hakkimizda.b7sl1p811x.css",
+      "Route": "css/Hakkimizda.0eghvm9qzi.css",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Hakkimizda.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1938,7 +2228,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "993"
         },
         {
           "Name": "Content-Type",
@@ -1946,11 +2236,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+RjxbU7bpK2etyvpPCC1emFZxT0POrM0o3wG36IkqpE=\""
+          "Value": "\"yOt5CFV91hGUOEnw84N1ZQIAuO8wbQ+Z0OYbTGpLfn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 16:42:11 GMT"
+          "Value": "Wed, 22 Jan 2025 12:12:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1960,7 +2250,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b7sl1p811x"
+          "Value": "0eghvm9qzi"
         },
         {
           "Name": "label",
@@ -1968,7 +2258,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+RjxbU7bpK2etyvpPCC1emFZxT0POrM0o3wG36IkqpE="
+          "Value": "sha256-yOt5CFV91hGUOEnw84N1ZQIAuO8wbQ+Z0OYbTGpLfn0="
         }
       ]
     },
@@ -1983,7 +2273,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1046"
+          "Value": "993"
         },
         {
           "Name": "Content-Type",
@@ -1991,11 +2281,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+RjxbU7bpK2etyvpPCC1emFZxT0POrM0o3wG36IkqpE=\""
+          "Value": "\"yOt5CFV91hGUOEnw84N1ZQIAuO8wbQ+Z0OYbTGpLfn0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 16:42:11 GMT"
+          "Value": "Wed, 22 Jan 2025 12:12:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2005,52 +2295,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+RjxbU7bpK2etyvpPCC1emFZxT0POrM0o3wG36IkqpE="
-        }
-      ]
-    },
-    {
-      "Route": "css/Iletisim.7uvjfftfl1.css",
-      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Iletisim.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2475"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ET3ejbKiR7KnfqPCejK1baA9FmokYGUu76pUbvMjvqM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 16:41:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7uvjfftfl1"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Iletisim.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ET3ejbKiR7KnfqPCejK1baA9FmokYGUu76pUbvMjvqM="
+          "Value": "sha256-yOt5CFV91hGUOEnw84N1ZQIAuO8wbQ+Z0OYbTGpLfn0="
         }
       ]
     },
@@ -2065,7 +2310,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2475"
+          "Value": "2413"
         },
         {
           "Name": "Content-Type",
@@ -2073,11 +2318,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ET3ejbKiR7KnfqPCejK1baA9FmokYGUu76pUbvMjvqM=\""
+          "Value": "\"T6syQyyFkliOLSd5iAVQF/Q76gIzSy3YSE9xcVHSArs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 16:41:11 GMT"
+          "Value": "Wed, 22 Jan 2025 12:27:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2087,7 +2332,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ET3ejbKiR7KnfqPCejK1baA9FmokYGUu76pUbvMjvqM="
+          "Value": "sha256-T6syQyyFkliOLSd5iAVQF/Q76gIzSy3YSE9xcVHSArs="
+        }
+      ]
+    },
+    {
+      "Route": "css/Iletisim.tx3zuek9hs.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Iletisim.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T6syQyyFkliOLSd5iAVQF/Q76gIzSy3YSE9xcVHSArs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 12:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tx3zuek9hs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Iletisim.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T6syQyyFkliOLSd5iAVQF/Q76gIzSy3YSE9xcVHSArs="
         }
       ]
     },
@@ -2102,7 +2392,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2075"
+          "Value": "1994"
         },
         {
           "Name": "Content-Type",
@@ -2110,11 +2400,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bkTZ3H0ugnGSuz4iYvjm4eBdFNBfAoXHjOHPfcSeVqU=\""
+          "Value": "\"KX4bk3m6/QeFIj842UFXX5IO4eDy+YFDtY0wf2FDeUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 18:23:27 GMT"
+          "Value": "Wed, 22 Jan 2025 12:13:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2124,12 +2414,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bkTZ3H0ugnGSuz4iYvjm4eBdFNBfAoXHjOHPfcSeVqU="
+          "Value": "sha256-KX4bk3m6/QeFIj842UFXX5IO4eDy+YFDtY0wf2FDeUM="
         }
       ]
     },
     {
-      "Route": "css/Konaklama.q6a8yhx6yr.css",
+      "Route": "css/Konaklama.jtj2pmizqf.css",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Konaklama.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2139,7 +2429,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2075"
+          "Value": "1994"
         },
         {
           "Name": "Content-Type",
@@ -2147,11 +2437,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bkTZ3H0ugnGSuz4iYvjm4eBdFNBfAoXHjOHPfcSeVqU=\""
+          "Value": "\"KX4bk3m6/QeFIj842UFXX5IO4eDy+YFDtY0wf2FDeUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 18:23:27 GMT"
+          "Value": "Wed, 22 Jan 2025 12:13:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2161,7 +2451,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q6a8yhx6yr"
+          "Value": "jtj2pmizqf"
         },
         {
           "Name": "label",
@@ -2169,7 +2459,52 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bkTZ3H0ugnGSuz4iYvjm4eBdFNBfAoXHjOHPfcSeVqU="
+          "Value": "sha256-KX4bk3m6/QeFIj842UFXX5IO4eDy+YFDtY0wf2FDeUM="
+        }
+      ]
+    },
+    {
+      "Route": "css/layout.0aqfx92vyc.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yJdSxfRtu+dv3SVTjrKw7DOz47RKxYQrNjsnmVo1KLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 12:14:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0aqfx92vyc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yJdSxfRtu+dv3SVTjrKw7DOz47RKxYQrNjsnmVo1KLg="
         }
       ]
     },
@@ -2184,7 +2519,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2423"
+          "Value": "2337"
         },
         {
           "Name": "Content-Type",
@@ -2192,11 +2527,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n2atF5hltOmEKisiK4vlgP6fMAHOwzO1izpfiwm6ysc=\""
+          "Value": "\"yJdSxfRtu+dv3SVTjrKw7DOz47RKxYQrNjsnmVo1KLg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 16:51:17 GMT"
+          "Value": "Wed, 22 Jan 2025 12:14:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2206,13 +2541,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n2atF5hltOmEKisiK4vlgP6fMAHOwzO1izpfiwm6ysc="
+          "Value": "sha256-yJdSxfRtu+dv3SVTjrKw7DOz47RKxYQrNjsnmVo1KLg="
         }
       ]
     },
     {
-      "Route": "css/layout.xgk3vs268c.css",
-      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\layout.css",
+      "Route": "css/Login.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2221,7 +2556,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2423"
+          "Value": "1710"
         },
         {
           "Name": "Content-Type",
@@ -2229,11 +2564,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n2atF5hltOmEKisiK4vlgP6fMAHOwzO1izpfiwm6ysc=\""
+          "Value": "\"OeHy3rV+s9Nd5LNYRAwJZT2o5dJyWsdI+oljIZwIhHU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 20 Jan 2025 16:51:17 GMT"
+          "Value": "Thu, 23 Jan 2025 17:25:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OeHy3rV+s9Nd5LNYRAwJZT2o5dJyWsdI+oljIZwIhHU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.xe67x5lyak.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OeHy3rV+s9Nd5LNYRAwJZT2o5dJyWsdI+oljIZwIhHU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:25:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2243,15 +2615,261 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xgk3vs268c"
+          "Value": "xe67x5lyak"
         },
         {
           "Name": "label",
-          "Value": "css/layout.css"
+          "Value": "css/Login.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n2atF5hltOmEKisiK4vlgP6fMAHOwzO1izpfiwm6ysc="
+          "Value": "sha256-OeHy3rV+s9Nd5LNYRAwJZT2o5dJyWsdI+oljIZwIhHU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Messages.1gtwkcao7n.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Messages.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"774IYd7WrOulOleSVImteML8qwdbFXi1rxg7YJfhjnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gtwkcao7n"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Messages.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-774IYd7WrOulOleSVImteML8qwdbFXi1rxg7YJfhjnE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Messages.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Messages.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"774IYd7WrOulOleSVImteML8qwdbFXi1rxg7YJfhjnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-774IYd7WrOulOleSVImteML8qwdbFXi1rxg7YJfhjnE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Register.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Register.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gjrYjrhznf7a+uTgCvbQXEWrErHXiJkUYsWsqRO1ODw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gjrYjrhznf7a+uTgCvbQXEWrErHXiJkUYsWsqRO1ODw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Register.iraswgcyop.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Register.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gjrYjrhznf7a+uTgCvbQXEWrErHXiJkUYsWsqRO1ODw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:31:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iraswgcyop"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Register.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gjrYjrhznf7a+uTgCvbQXEWrErHXiJkUYsWsqRO1ODw="
+        }
+      ]
+    },
+    {
+      "Route": "css/Reservations.1myh4cnwso.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Reservations.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eW3RmeGOHcJShFACKbFZhzq6lWyoCt6bI/2vtrw7YAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:49:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1myh4cnwso"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Reservations.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eW3RmeGOHcJShFACKbFZhzq6lWyoCt6bI/2vtrw7YAI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Reservations.css",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Reservations.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eW3RmeGOHcJShFACKbFZhzq6lWyoCt6bI/2vtrw7YAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 17:49:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eW3RmeGOHcJShFACKbFZhzq6lWyoCt6bI/2vtrw7YAI="
         }
       ]
     },
@@ -2266,7 +2884,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3554"
+          "Value": "3047"
         },
         {
           "Name": "Content-Type",
@@ -2274,11 +2892,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LvtjVu5lqZ7TfbAJKnZbJ+hB4BfS8hnK+aVbcQNx7AI=\""
+          "Value": "\"mUj8JFTywyklnl+RDFM5uy18Zg9fCnJi4c5X/yJusWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 17:34:02 GMT"
+          "Value": "Wed, 22 Jan 2025 12:20:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2288,12 +2906,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LvtjVu5lqZ7TfbAJKnZbJ+hB4BfS8hnK+aVbcQNx7AI="
+          "Value": "sha256-mUj8JFTywyklnl+RDFM5uy18Zg9fCnJi4c5X/yJusWs="
         }
       ]
     },
     {
-      "Route": "css/Restorant.mb7n0kjmjj.css",
+      "Route": "css/Restorant.tvmjijp9yj.css",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\Restorant.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2303,7 +2921,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3554"
+          "Value": "3047"
         },
         {
           "Name": "Content-Type",
@@ -2311,11 +2929,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LvtjVu5lqZ7TfbAJKnZbJ+hB4BfS8hnK+aVbcQNx7AI=\""
+          "Value": "\"mUj8JFTywyklnl+RDFM5uy18Zg9fCnJi4c5X/yJusWs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 17:34:02 GMT"
+          "Value": "Wed, 22 Jan 2025 12:20:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2325,7 +2943,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mb7n0kjmjj"
+          "Value": "tvmjijp9yj"
         },
         {
           "Name": "label",
@@ -2333,7 +2951,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LvtjVu5lqZ7TfbAJKnZbJ+hB4BfS8hnK+aVbcQNx7AI="
+          "Value": "sha256-mUj8JFTywyklnl+RDFM5uy18Zg9fCnJi4c5X/yJusWs="
         }
       ]
     },
@@ -2430,7 +3048,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1676"
+          "Value": "1651"
         },
         {
           "Name": "Content-Type",
@@ -2438,11 +3056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UNU84xSPJVvbjH6RPSleLhzVSXByDkmL5BqO5pfzju4=\""
+          "Value": "\"eTQIKbGTbl4x05UPwYH960SYxlCoDx2aJIWizbZ0RY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 17:40:56 GMT"
+          "Value": "Wed, 22 Jan 2025 12:27:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2452,12 +3070,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UNU84xSPJVvbjH6RPSleLhzVSXByDkmL5BqO5pfzju4="
+          "Value": "sha256-eTQIKbGTbl4x05UPwYH960SYxlCoDx2aJIWizbZ0RY0="
         }
       ]
     },
     {
-      "Route": "css/YeniRezervasyon.oeimghfpq1.css",
+      "Route": "css/YeniRezervasyon.dj8phvr0m7.css",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\css\\YeniRezervasyon.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2467,7 +3085,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1676"
+          "Value": "1651"
         },
         {
           "Name": "Content-Type",
@@ -2475,11 +3093,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UNU84xSPJVvbjH6RPSleLhzVSXByDkmL5BqO5pfzju4=\""
+          "Value": "\"eTQIKbGTbl4x05UPwYH960SYxlCoDx2aJIWizbZ0RY0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 17:40:56 GMT"
+          "Value": "Wed, 22 Jan 2025 12:27:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2489,7 +3107,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oeimghfpq1"
+          "Value": "dj8phvr0m7"
         },
         {
           "Name": "label",
@@ -2497,7 +3115,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UNU84xSPJVvbjH6RPSleLhzVSXByDkmL5BqO5pfzju4="
+          "Value": "sha256-eTQIKbGTbl4x05UPwYH960SYxlCoDx2aJIWizbZ0RY0="
         }
       ]
     },
@@ -3978,6 +4596,51 @@
       ]
     },
     {
+      "Route": "js/carousel.0p3mzfqb6f.js",
+      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\js\\carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zEQ5pdSD3fb+DT3w2YLMhGmyDPoNLxXcDaI8m/NMrIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 22 Jan 2025 12:27:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0p3mzfqb6f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zEQ5pdSD3fb+DT3w2YLMhGmyDPoNLxXcDaI8m/NMrIs="
+        }
+      ]
+    },
+    {
       "Route": "js/carousel.js",
       "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\js\\carousel.js",
       "Selectors": [],
@@ -3988,7 +4651,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "661"
+          "Value": "492"
         },
         {
           "Name": "Content-Type",
@@ -3996,11 +4659,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GFIGw/6otCVDKi/jt2GVoM5lI5//LhEKoX6HlQ3SqVA=\""
+          "Value": "\"zEQ5pdSD3fb+DT3w2YLMhGmyDPoNLxXcDaI8m/NMrIs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 16:23:05 GMT"
+          "Value": "Wed, 22 Jan 2025 12:27:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4010,52 +4673,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GFIGw/6otCVDKi/jt2GVoM5lI5//LhEKoX6HlQ3SqVA="
-        }
-      ]
-    },
-    {
-      "Route": "js/carousel.wq5ca49te8.js",
-      "AssetFile": "C:\\Users\\Dell\\OneDrive\\Masaüstü\\OtelSitesi\\wwwroot\\js\\carousel.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GFIGw/6otCVDKi/jt2GVoM5lI5//LhEKoX6HlQ3SqVA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 13 Jan 2025 16:23:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "wq5ca49te8"
-        },
-        {
-          "Name": "label",
-          "Value": "js/carousel.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GFIGw/6otCVDKi/jt2GVoM5lI5//LhEKoX6HlQ3SqVA="
+          "Value": "sha256-zEQ5pdSD3fb+DT3w2YLMhGmyDPoNLxXcDaI8m/NMrIs="
         }
       ]
     },

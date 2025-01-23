@@ -11,6 +11,12 @@ namespace OtelSitesi.Controllers
         {
             _context = context;
         }
+        [HttpGet]
+        public IActionResult Mesajlar()
+        {
+            var mesajlar = _context.Mesajlar.ToList(); // Mesajları veri tabanından çek
+            return View(mesajlar); // Mesajlar view'ine mesajları gönder
+        }
 
         [HttpGet]
         public IActionResult Index()

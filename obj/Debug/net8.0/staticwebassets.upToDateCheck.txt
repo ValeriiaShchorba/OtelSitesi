@@ -1,8 +1,14 @@
+wwwroot\css\Ayarlar.css
+wwwroot\css\Dashboard.css
 wwwroot\css\Galeri.css
 wwwroot\css\Hakkimizda.css
 wwwroot\css\Iletisim.css
 wwwroot\css\Konaklama.css
 wwwroot\css\layout.css
+wwwroot\css\Login.css
+wwwroot\css\Messages.css
+wwwroot\css\Register.css
+wwwroot\css\Reservations.css
 wwwroot\css\Restorant.css
 wwwroot\css\site.css
 wwwroot\css\YeniRezervasyon.css

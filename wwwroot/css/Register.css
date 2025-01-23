@@ -1,0 +1,102 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Hafif gri arka plan */
+}
+
+.register-container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.register-title {
+    font-size: 24px;
+    color: #004d40; /* Başlık rengi */
+    margin-bottom: 20px;
+}
+
+.register-form .form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.register-form label {
+    font-size: 14px;
+    color: #444;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.register-form input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+    .register-form input:focus {
+        border-color: #004d40;
+        outline: none;
+        box-shadow: 0 0 5px rgba(0, 77, 64, 0.5);
+    }
+
+.btn-register {
+    width: 100%;
+    padding: 10px;
+    background-color: #632801; /* Buton rengi */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-register:hover {
+        background-color: #804a26; /* Hover rengi */
+    }
+
+.success-message {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+}
+
+.error-message {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #f5c6cb;
+    border-radius: 5px;
+}
+
+.login-link {
+    margin-top: 20px;
+}
+
+    .login-link p {
+        font-size: 14px;
+        color: #333;
+    }
+
+    .login-link .btn-login {
+        color: #632801; /* Giriş Yap link rengi */
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .login-link .btn-login:hover {
+            text-decoration: underline;
+        }

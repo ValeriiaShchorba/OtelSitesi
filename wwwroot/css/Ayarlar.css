@@ -1,0 +1,108 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.settings-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    .settings-container h1 {
+        font-size: 28px;
+        color: #004d40;
+        margin-bottom: 20px;
+    }
+
+    .settings-container p {
+        font-size: 16px;
+        color: #555;
+        margin-bottom: 30px;
+    }
+
+.settings-form .form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.settings-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #004d40;
+}
+
+.settings-form input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+    .settings-form input:focus {
+        outline: none;
+        border-color: #004d40;
+        box-shadow: 0 0 5px rgba(0, 77, 64, 0.2);
+    }
+
+.btn-save {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #632801;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
+}
+
+    .btn-save:hover {
+        background-color: #664733;
+    }
+
+.alert {
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.alert-error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.btn-back {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #004d40;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-back:hover {
+        background-color: #003026;
+    }

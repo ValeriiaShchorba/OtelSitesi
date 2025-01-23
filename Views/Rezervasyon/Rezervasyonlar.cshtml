@@ -1,0 +1,41 @@
+﻿@model IEnumerable<OtelSitesi.Models.Rezervasyonlar>
+
+@{
+    ViewData["Title"] = "Rezervasyonlar";
+}
+
+<div class="reservations-container">
+    <h1>Gelen Rezervasyonlar</h1>
+
+    <table class="styled-table">
+        <thead>
+            <tr>
+                <th>Ad Soyad</th>
+                <th>E-posta</th>
+                <th>Telefon</th>
+                <th>Oda Türü</th>
+                <th>Giriş Tarihi</th>
+                <th>Çıkış Tarihi</th>
+                <th>Rezervasyon Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var rezervasyon in Model)
+            {
+                <tr>
+                    <td>@rezervasyon.AdSoyad</td>
+                    <td>@rezervasyon.Eposta</td>
+                    <td>@rezervasyon.Telefon</td>
+                    <td>@rezervasyon.OdaTuru</td>
+                    <td>@rezervasyon.GirisTarihi.ToString("dd/MM/yyyy")</td>
+                    <td>@rezervasyon.CikisTarihi.ToString("dd/MM/yyyy")</td>
+                    <td>@rezervasyon.OlusturulmaTarihi.ToString("dd/MM/yyyy HH:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="/Dashboard" class="btn-back">Dashboard'a Dön</a>
+</div>
+
+<link rel="stylesheet" href="/css/Reservations.css" />

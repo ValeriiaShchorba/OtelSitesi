@@ -169,4 +169,5 @@ C:\Users\Dell\OneDrive\Masaüstü\OtelSitesi\obj\Debug\net8.0\refint\OtelSitesi.
 C:\Users\Dell\OneDrive\Masaüstü\OtelSitesi\obj\Debug\net8.0\OtelSitesi.pdb
 C:\Users\Dell\OneDrive\Masaüstü\OtelSitesi\obj\Debug\net8.0\OtelSitesi.genruntimeconfig.cache
 C:\Users\Dell\OneDrive\Masaüstü\OtelSitesi\obj\Debug\net8.0\ref\OtelSitesi.dll
+C:\Users\Dell\OneDrive\Masaüstü\OtelSitesi\obj\Debug\net8.0\OtelSitesi.sourcelink.json
 C:\Users\Dell\OneDrive\Masaüstü\OtelSitesi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

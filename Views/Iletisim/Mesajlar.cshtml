@@ -1,0 +1,35 @@
+﻿@model IEnumerable<OtelSitesi.Models.Mesajlar>
+
+@{
+    ViewData["Title"] = "Gelen Mesajlar";
+}
+
+<div class="messages-container">
+    <h1>Gelen Mesajlar</h1>
+
+    <table class="styled-table">
+        <thead>
+            <tr>
+                <th>Ad Soyad</th>
+                <th>E-posta</th>
+                <th>Mesaj</th>
+                <th>Gönderim Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var mesaj in Model)
+            {
+                <tr>
+                    <td>@mesaj.AdSoyad</td>
+                    <td>@mesaj.Eposta</td>
+                    <td>@mesaj.Mesaj</td>
+                    <td>@mesaj.OlusturulmaTarihi.ToString("dd/MM/yyyy HH:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="/Dashboard" class="btn-back">Dashboard'a Dön</a>
+</div>
+
+<link rel="stylesheet" href="/css/Messages.css" />

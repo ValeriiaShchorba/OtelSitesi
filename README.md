@@ -10,8 +10,8 @@ OtelSitesi projesi, kullanıcı dostu bir otel yönetim ve rezervasyon sistemi s
 
 <div style="display: flex; justify-content: space-between;">
 
-![Ana Sayfa Görüntüsü 1](./screenshots/AnaSayfa1.png)
-![Ana Sayfa Görüntüsü 2](./screenshots/AnaSayfa2.png)
+![Ana Sayfa Görüntüsü 1](OtelSitesi/screenshots/AnaSayfa1.png)
+![Ana Sayfa Görüntüsü 2](OtelSitesi/screenshots/AnaSayfa2.png)
 
 </div>
 

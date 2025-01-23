@@ -164,8 +164,17 @@ Bu proje, kullanıcı dostu bir arayüz ve güçlü bir altyapıyla geliştirilm
 
 Eğer bu proje hakkında daha fazla bilgi edinmek istiyorsanız, aşağıdaki bağlantılardan bize ulaşabilirsiniz:
 
-- **E-posta:** info@otelsitesi.com
-- **LinkedIn:** [Profilimizi Ziyaret Edin](https://www.linkedin.com)
+ **Geliştirenler**
+- **Ad**: Valeriia 
+- **Soyad**: Shchorba 
+- **E-posta:**: valeriashchorba@gmail.com
+- **Tel No**: +90 552 612 9787
+
+- - **Ad**: Adil Baha
+- **Soyad**: Şahin
+- **E-posta:**: adilbaha54@gmail.com
+- **Tel No**: +90 551 174 8211
+
 - **YouTube Proje Videosu:** [Proje Videosunu İzle](https://www.youtube.com/watch?v=example)
 
 ---

@@ -170,7 +170,7 @@ Eğer bu proje hakkında daha fazla bilgi edinmek istiyorsanız, aşağıdaki ba
 - **E-posta:**: valeriashchorba@gmail.com
 - **Tel No**: +90 552 612 9787
 
-- - **Ad**: Adil Baha
+- **Ad**: Adil Baha
 - **Soyad**: Şahin
 - **E-posta:**: adilbaha54@gmail.com
 - **Tel No**: +90 551 174 8211

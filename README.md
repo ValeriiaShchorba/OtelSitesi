@@ -4,15 +4,14 @@ OtelSitesi, kullanıcıların oteller hakkında bilgi alabilecekleri, rezervasyo
 
 Bu bölümde otelimizin dış görünümü ve oda iç mekanlarının görsellerini inceleyebilirsiniz.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+### Otelin Dış Görünümü
+![Otelin Dış Görünümü](./screenshots/AnaSayfa1.png)
 
-<img src="AnaSayfa1.png" alt="Otelin dış görünümü" style="width: 45%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+Otelimizin doğal bir orman manzarası eşliğinde dış görünümü.
 
-<img src="AnaSayfa2.png" alt="Oda iç mekanları" style="width: 45%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+---
 
-</div>
+### Oda İç Mekanları
+![Oda İç Mekanları](./screenshots/AnaSayfa2.png)
 
-### Açıklamalar
-
-- **Soldaki Görsel:** Otelimizin doğal bir orman manzarası eşliğinde dış görünümü.
-- **Sağdaki Görsel:** Ahşap dokularla tasarlanmış, konforlu oda iç mekanlarımız.
+Ahşap dokularla tasarlanmış, konforlu oda iç mekanlarımız.

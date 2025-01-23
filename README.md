@@ -6,7 +6,7 @@ OtelSitesi projesi, kullanıcı dostu bir otel yönetim ve rezervasyon sistemi s
 
 ---
 
-## Ana Sayfa Görüntüleri
+## Ana Sayfa
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -22,3 +22,24 @@ OtelSitesi projesi, kullanıcı dostu bir otel yönetim ve rezervasyon sistemi s
 - **Responsive Tasarım:** Ana sayfa, tüm cihazlarda sorunsuz bir şekilde çalışır.
 - **Rezervasyon Yönlendirmesi:** Tek bir tıklamayla rezervasyon sayfasına erişim sağlar.
 - **Konum ve İletişim:** Harita entegrasyonu ile otel konumu ve iletişim bilgileri kullanıcıya sunulmuştur.
+# Hakkımızda Sayfası
+
+Hakkımızda sayfası, otelimizle ilgili detaylı bilgileri kullanıcılara sunarak, misyonumuzu, sunduğumuz hizmetleri ve tesis özelliklerini tanıtmaktadır.
+
+---
+
+## Sayfa Görünümü
+
+![Hakkımızda Sayfası](./screenshouts/Hakkımızda.png)
+
+### Sayfa Özellikleri:
+- **Bilgilendirici İçerik:** Kullanıcılar, otel hakkında detaylı bilgilere bu sayfa üzerinden kolayca ulaşabilir.
+- **Göze Hitap Eden Tasarım:** Görsel ve metin düzeni, kullanıcı deneyimini artırmak üzere tasarlanmıştır.
+- **Uyumlu Yapı:** Tüm cihazlarda optimize edilmiş, responsive bir tasarıma sahiptir.
+
+### Açıklama:
+Hakkımızda sayfasında, otelin misyonu ve sunduğu hizmetler net bir şekilde açıklanmaktadır. Kullanıcılar, otelin çevresel konum avantajlarını ve misafirperverlik anlayışını burada öğrenebilir.
+
+---
+
+Bu sayfa, otelin profesyonel yaklaşımını ve müşteri memnuniyetine verdiği önemi vurgulayan bir yapıdadır.

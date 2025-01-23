@@ -15,7 +15,7 @@ Bu proje, kullanıcı dostu bir arayüz ve güçlü bir altyapıyla geliştirilm
 - [İletişim](#iletişim-sayfası)
 - [Rezervasyon](#rezervasyon-sayfası)
 - [Yönetici Paneli](#yönetici-paneli)
-- [İletişim ve Video Bağlantısı](#📞-iletişim-ve-video-bağlantısı)
+- [İletişim ve Video Bağlantısı](#📞-iletişim)
 
 ---
 
@@ -160,7 +160,7 @@ Bu proje, kullanıcı dostu bir arayüz ve güçlü bir altyapıyla geliştirilm
 
 ---
 
-## 📞 İletişim ve Video Bağlantısı
+## 📞 İletişim
 
 Eğer bu proje hakkında daha fazla bilgi edinmek istiyorsanız, aşağıdaki bağlantılardan bize ulaşabilirsiniz:
 

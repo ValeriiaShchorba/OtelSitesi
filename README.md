@@ -179,7 +179,7 @@ Eğer bu proje hakkında daha fazla bilgi edinmek istiyorsanız, aşağıdaki ba
 
 Projemizin detaylarını öğrenmek ve özelliklerini incelemek için YouTube videosunu izleyebilirsiniz:
 
-- **YouTube Proje Videosu:** [Proje Videosunu İzle](https://www.youtube.com/watch?v=example)
+- **YouTube Proje Videosu:** [Proje Videosunu İzle]([https://www.youtube.com/watch?v=example](https://www.youtube.com/watch?v=0kgfglBWBgA))
 ---
 
 Bu README dosyası, projenin tüm detaylarını açıklayan kapsamlı bir dökümandır. Herhangi bir sorunuz olursa, lütfen bizimle iletişime geçmekten çekinmeyin!
